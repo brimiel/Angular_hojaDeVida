@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  /* font-family: "Quicksand", sans-serif; */
+  /* font-family: 'Playfair Display', serif; */
+  font-family: 'Readex Pro', sans-serif;
+}
+
+body {
+  background-image: url(assets/img/background.jpg);
+
+  background-position: center center;
+
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
+
+  background-size: cover;
+}
